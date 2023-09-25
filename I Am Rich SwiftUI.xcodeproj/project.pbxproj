@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B6B3E3992AC1858000C18875 /* I_Am_Rich_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B3E3982AC1858000C18875 /* I_Am_Rich_SwiftUIApp.swift */; };
+		B6B3E3992AC1858000C18875 /* AppEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B3E3982AC1858000C18875 /* AppEntry.swift */; };
 		B6B3E39B2AC1858000C18875 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B3E39A2AC1858000C18875 /* ContentView.swift */; };
 		B6B3E39D2AC1859100C18875 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6B3E39C2AC1859100C18875 /* Assets.xcassets */; };
 		B6B3E3A02AC1859100C18875 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6B3E39F2AC1859100C18875 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		B6B3E3952AC1858000C18875 /* I Am Rich SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Rich SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B6B3E3982AC1858000C18875 /* I_Am_Rich_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_Am_Rich_SwiftUIApp.swift; sourceTree = "<group>"; };
+		B6B3E3982AC1858000C18875 /* AppEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEntry.swift; sourceTree = "<group>"; };
 		B6B3E39A2AC1858000C18875 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B6B3E39C2AC1859100C18875 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6B3E39F2AC1859100C18875 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		B6B3E3972AC1858000C18875 /* I Am Rich SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				B6B3E3982AC1858000C18875 /* I_Am_Rich_SwiftUIApp.swift */,
+				B6B3E3982AC1858000C18875 /* AppEntry.swift */,
 				B6B3E39A2AC1858000C18875 /* ContentView.swift */,
 				B6B3E39C2AC1859100C18875 /* Assets.xcassets */,
 				B6B3E39E2AC1859100C18875 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6B3E39B2AC1858000C18875 /* ContentView.swift in Sources */,
-				B6B3E3992AC1858000C18875 /* I_Am_Rich_SwiftUIApp.swift in Sources */,
+				B6B3E3992AC1858000C18875 /* AppEntry.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
